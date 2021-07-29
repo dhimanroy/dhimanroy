@@ -11,6 +11,6 @@
       <h4>Connect with me:</h4>
       <a href="mailto:dhimanroy117@gmail.com"><img src ="https://img.shields.io/badge/email-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
       <a href="https://dhimanroy.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
-      <a href="https://scholar.google.com/citations?user=4OYyS6AAAAAJ">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=4OYyS6AAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black"></a>
   </tr>
 </table>
